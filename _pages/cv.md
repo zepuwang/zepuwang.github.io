@@ -30,7 +30,7 @@ redirect_from:
   02/2023 ~ 10/2023\
   Supervisor: Prof. Jinhua Zhao, Prof. Shenhao Wang\
   Project 1: Data Imputation for Traffic Data with Uncertainty Quantification
-  •Apply graph neural networks and RNNs to compute missing data and predict reasonable uncertainty.
+  •Apply graph neural networks and RNNs to compute missing data and predict reasonable uncertainty.\
   Project 2: Mixture Models for Uncertainty Quantification in Travel Demand Prediction
 
 * **Research Intern, Westlake University**\
