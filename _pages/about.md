@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master student at <u>University of Pennslyvania </u>. I obtained my Bachelor's degree in Data Science from <u>Duke University</u>/<u>Duke Kunshan University</u>, supervised by [Prof. Peng Sun](https://scholars.duke.edu/person/Peng.Sun1). If you want to know more about me, please feel free to [contact me](mailto:zepu@seas.upenn.edu).
+I am a second-year master student at <u>University of Pennslyvania</u>. I obtained my Bachelor's degree in Data Science from <u>Duke University</u>/<u>Duke Kunshan University</u>, supervised by [Prof. Peng Sun](https://scholars.duke.edu/person/Peng.Sun1). If you want to know more about me, please feel free to [contact me](mailto:zepu@seas.upenn.edu).
 
 
 
