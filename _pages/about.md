@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,72 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a second-year master student at <u>University of Pennslyvania </u>. I obtained my Bachelor's degree in Data Science from <u>Duke University</u>/<u>Duke Kunshan University</u>, supervised by [Prof. Peng Sun](https://scholars.duke.edu/person/Peng.Sun1). If you want to know more about me, please feel free to [contact me](mailto:zepu@seas.upenn.edu).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Research Interests
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* Spatiotemporal Graph Neural Networks
+* Time Series
+* Uncertainty Quantification
+* Applications in Intelligent Transportation Systems and Vehicle Networks
+* New in Large Language Models
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Publications/Paper Work
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+### Intelligent Transportation Systems and Vehicle Networks
+#### Conference
+* **Zepu Wang**, Yuqi Nie, Peng Sun, Nam H. Nguyen, John Mulvey, H. Vincent Poor. ST-MLP: A Cascaded Spatio-Temporal Linear Framework with Channel-Independence Strategy for Traffic Forecasting, under review by *AAAI 2024 Conference on Artificial Intelligence*
+* **Zepu Wang**, Dingyi Zhuang, Yankai Li, Shenhao Wang, Jinhua Zhao, Peng Sun. ST-GIN: An Uncertainty Quantification Approach in Traffic Data Imputation with Spatio-temporal Graph Attention and Bidirectional Recurrent United Neural Networks, **accepted** by *ITSC 2023 IEEE International Conference on Intelligent Transportation Systems*
+* **Zepu Wang**, Yifei Sun, Zhiyu Lei, XIncheng Zhu, Peng Sun. SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory, **accepted** by *ITSC 2023 IEEE International Conference on Intelligent Transportation Systems*
+* **Zepu Wang**, Peng Sun, Yulin Hu, Azzedine Boukerche. A Novel Mixed Method of Machine Learning Based Model in Traffic Flow Prediction, **accepted** by *MSWIM 2022 ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems*, [Link](https://dl.acm.org/doi/abs/10.1145/3551659.3559047)
+* **Zepu Wang**, Peng Sun, Yulin Hu, and Azzedine Boukerche. SFL: A High-precision Traffic Flow Predictor for Supporting Intelligent Transportation Systems, **accepted** by *GLOBECOM 2022 IEEE Global Communications Conference*, [Link](https://ieeexplore.ieee.org/abstract/document/10000941)
+* **Zepu, Wang**, Peng Sun, and Azzedine Boukerche. A novel time efficient machine learning-based traffic flow prediction method for large scale road network, **accepted** by *ICC 2022 IEEE International Conference on Communications*, [Link](https://ieeexplore.ieee.org/abstract/document/9838799?casa_token=XOSwr7oysNYAAAAA:E_ozaVV2zVunIn6R1_6G6eejHso-yubKKvGl6tW2w5X50K8mozo0PbHWODM8ygEW_rD_Tvh2lg)
+#### Journal
+* **Zepu Wang**, Peng Sun, Yulin Hu, Azzedine Boukerche. A novel hybrid method for achieving accurate and timeliness vehicular traffic flow prediction in road networks, **accepted** by **Computer Communications**, [Link](https://www.sciencedirect.com/science/article/pii/S0140366423002530)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+### Other
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## News Archive
+* June 6 2022. I started my internship in Chicago Transit Authority
+
+* Mar 8 2021. I was admitted by MIT Interdepartmental Program in Transportation!
+  
+* Our paper “Inductive Graph Neural Networks for Spatiotemporal Kriging” was accepted by *AAAI 2021*! [arXiv](https://arxiv.org/abs/2006.07527) [Github](https://github.com/Kaimaoge/IGNNK)
+
+* Aug 2020. I luckily passed the application of [Mitacs Accelerate](https://www.mitacs.ca/en/programs/accelerate) to be an intern in [ExPretio](http://www.expretio.com/).
+
+* June 2020. A paper titled “Inductive Graph Neural Networks for Spatiotemporal Kriging” has been posted in [arXiv](https://arxiv.org/abs/2006.07527), the open-source code can be found [Github](https://github.com/Kaimaoge/IGNNK).
+
+* October 22, 2019. my paper with Dr. Siyu Hao, *A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit* is accepted for presentation in Transportation Research Board 2020.
+
+* September 3, 2019. I enrolled McGill University as a master (thesis) student in the Department of Civil Engineering and Applied Mechanics
+
+* December 12, 2018. My work in NUS, *From compound word to metropolitan station: Semantic similarity analysis using smart card data*, was submitted to *Transportation Research Part C: Emerging Technologies*.
+
+* October 13, 2018. I will report in [*WCTR Society’s SIG G2 Mid-Term Workshop*](http://e242.zserv.tuwien.ac.at/fileadmin/mediapool-verkehrsplanung/Diverse/Links/CfP_WCTR_SIG2_mid-term_event_final_v1.pdf) in Beijing.
+
+* September 15, 2018. An abstract was submitted to *The 19th COTA International Conference of Transportation Professionals ([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*
+
+* September 9, 2018. I made oral presentation in *The Sixth International Conference on Transportation and Logistics ([6th T-LOG](http://tlog2018.cicts-dmu.com/) )*.
+
+* August 6, 2018. A paper was accepted in *The 6th International Conference on Transportation and Space-time Economics ([TSTE 2018](http://tste.bjtu.edu.cn/) )*.
+
+* July 9, 2018. I start my research in National University of Singapore under the guidance of Prof. Lee Der-Horng.
+
+* May 16, 2018. A paper was accepted in *The Sixth International Conference on Transportation and Logistics ([6th T-LOG](http://tlog2018.cicts-dmu.com/) )*. -->
