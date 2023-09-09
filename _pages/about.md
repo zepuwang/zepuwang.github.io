@@ -42,6 +42,7 @@ I am a second-year master student at <u>University of Pennslyvania</u>. I obtain
 ## In Preparation
 
 * **Zepu Wang**, Yuqi Nie, Peng Sun, Nam H. Nguyen, John Mulvey, H. Vincent Poor. ST-MLP: A Cascaded Spatio-Temporal Linear Framework with Channel-Independence Strategy for Traffic Forecasting, under review by *AAAI 2024 Conference on Artificial Intelligence*
+* ** Zepu Wang**, Yuqi Nie. Can GPT-4 Write an AI Research Paper?
 
 
 
