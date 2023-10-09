@@ -1,11 +1,10 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+<!-- layout: archive -->
+title: "Zepu Wang 王泽普"
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+redirect_from:
+  - /resume
 ---
 
 This is a page not in the menu. You can use markdown in this page.
