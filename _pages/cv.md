@@ -38,6 +38,7 @@ redirect_from:
   • Utilized graph attention layers and bidirectional recurrent units to capture spatio-temporal traffic data patterns and predicted uncertainty of traffic data.\
   Project 2:Mixture Models for Uncertainty Quantification in Sparse Travel Demand Prediction\
   •	Used mixture models (Laplace, Poisson, Gaussian) to approximate complex travel demand distribution, addressing high zero occurrences.
+  [link](https://github.com/zepuwang/summer-project-)
 
 * **Research Intern, Duke Kunshan University**\
   07/2021 ~ present\
