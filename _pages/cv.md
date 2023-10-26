@@ -61,8 +61,8 @@ redirect_from:
   07/2021 ~ 08/2021\
   Supervisor: Prof. Stan Z. Li\
   Project: Protein-Protein Interactions (PPIs)\
-  •Predicted PPIs based on primary protein structures, using traditional natural language processing (NLP) methods (RNNs) and advanced NLP methods (Transformers).\
-  •Increased accuracy by 2% (MSE) in RNNs methods by using the trick of pad sequences.
+  • Predicted PPIs based on primary protein structures, using traditional natural language processing (NLP) methods (RNNs) and advanced NLP methods (Transformers).\
+  • Increased accuracy by 2% (MSE) in RNNs methods by using the trick of pad sequences.
 
 
 
