@@ -17,8 +17,9 @@ I am a second-year master student at <u>University of Pennsylvania</u>. I obtain
 * Spatiotemporal Graph Neural Networks
 * Time Series
 * Uncertainty Quantification
+* New in Autonomy, Robotics and Learning-based Control
 * Applications in Intelligent Transportation Systems and Vehicle Networks
-* New in Large Language Models
+
 
 
 
@@ -30,18 +31,19 @@ I am a second-year master student at <u>University of Pennsylvania</u>. I obtain
 * **Zepu Wang**, Yifei Sun, Zhiyu Lei, XIncheng Zhu, Peng Sun. SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory, **accepted** by *ITSC 2023 IEEE International Conference on Intelligent Transportation Systems*, [PPT](https://docs.google.com/presentation/d/1irGjsEFzZzmOV1uEvzHiF3CPU5jLt7konYRvS4MuKXE/edit?usp=sharing)
 * **Zepu Wang**, Peng Sun, Yulin Hu, Azzedine Boukerche. A Novel Mixed Method of Machine Learning Based Model in Traffic Flow Prediction, **accepted** by *MSWIM 2022 ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems*, [Link](https://dl.acm.org/doi/abs/10.1145/3551659.3559047)
 * **Zepu Wang**, Peng Sun, Yulin Hu, and Azzedine Boukerche. SFL: A High-precision Traffic Flow Predictor for Supporting Intelligent Transportation Systems, **accepted** by *GLOBECOM 2022 IEEE Global Communications Conference*, [Link](https://ieeexplore.ieee.org/abstract/document/10000941)
-* **Zepu, Wang**, Peng Sun, and Azzedine Boukerche. A novel time efficient machine learning-based traffic flow prediction method for large scale road network, **accepted** by *ICC 2022 IEEE International Conference on Communications*, [Link](https://ieeexplore.ieee.org/abstract/document/9838799?casa_token=XOSwr7oysNYAAAAA:E_ozaVV2zVunIn6R1_6G6eejHso-yubKKvGl6tW2w5X50K8mozo0PbHWODM8ygEW_rD_Tvh2lg)
+* **Zepu, Wang**, Peng Sun, and Azzedine Boukerche. A Novel Time Efficient Machine Learning-based Traffic Flow Prediction Method for Large Scale Road Network, **accepted** by *ICC 2022 IEEE International Conference on Communications*, [Link](https://ieeexplore.ieee.org/abstract/document/9838799?casa_token=XOSwr7oysNYAAAAA:E_ozaVV2zVunIn6R1_6G6eejHso-yubKKvGl6tW2w5X50K8mozo0PbHWODM8ygEW_rD_Tvh2lg)
 
 #### Journal
-* **Zepu Wang**, Peng Sun, Yulin Hu, Azzedine Boukerche. A novel hybrid method for achieving accurate and timeliness vehicular traffic flow prediction in road networks, **accepted** by **Computer Communications**, [Link](https://www.sciencedirect.com/science/article/pii/S0140366423002530)
+* **Zepu Wang**, Peng Sun, Yulin Hu, Azzedine Boukerche. A Novel Hybrid Method for Achieving Accurate and Timeliness Vehicular Traffic Flow Prediction in Road Networks, **accepted** by **Computer Communications**, [Link](https://www.sciencedirect.com/science/article/pii/S0140366423002530)
 
 
 
 ### Other
 
-## In Preparation
+## Under Review / In Preparation
 
 * **Zepu Wang**, Yuqi Nie, Peng Sun, Nam H. Nguyen, John Mulvey, H. Vincent Poor. ST-MLP: A Cascaded Spatio-Temporal Linear Framework with Channel-Independence Strategy for Traffic Forecasting, under review by *AAAI 2024 Conference on Artificial Intelligence*
+* Gezhi Wang, **Zepu, Wang**, Peng Sun, and Azzedine Boukerche. SK-SVR-CNN: A Hybrid Approach for Traffic Flow Prediction with Signature PDE Kernel and Convolutional Neural Networks, under review by *ICC 2024 IEEE International Conference on Communications*
 * **Zepu Wang**, Yuqi Nie. Can GPT-4 Write an AI Research Paper?
 * **Zepu Wang**, Dingyi Zhuang. Uncertainty Quantification of Sparse Travel Demand Prediction with Mixture Density Networks, targeting at *ACM SIGKDD 2024 Conference on Knowledge Discovery & Data Mining*
 
