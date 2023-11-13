@@ -10,6 +10,7 @@ redirect_from:
 ## CV
 {% include base_path %}
 
+[My Curriculum Vitae, updated in 11/13/2023](../files/ZepuWang.pdf)
 
 ## Education
 
