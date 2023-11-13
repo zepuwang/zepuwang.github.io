@@ -27,13 +27,8 @@ redirect_from:
   Awards: Merit-based Undergraduate Official Scholarship, Summa Cum Laude (Undergraduate highest honor), Dean’s List (2018, 2019, 2020, 2021, 2022)
 
 ## Research Experience
-* **Research Assistant, University of Pennsylvania**\
-  05/2023 ~ present\
-  Supervisor: Prof. Shane Jensen, Ph.D.\
-  Project: Crime Prediction with Uncertainty Quantification
-  
 * **Online Research Intern, Massachusetts Institute of Technology (MIT)**\
-  02/2023 ~ present\
+  02/2023 ~ 08/2023\
   Supervisor: Prof. Jinhua Zhao, Prof. Shenhao Wang\
   Project 1: Uncertainty Quantification in Traffic Data Imputation\
   • Utilized graph attention layers and bidirectional recurrent units to capture spatio-temporal traffic data patterns and predicted uncertainty of traffic data.\
