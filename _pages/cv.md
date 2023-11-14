@@ -15,7 +15,7 @@ redirect_from:
 ## Education
 
 * **Master of Science in Engineering in Data Science, University of Pennsylvania**  
-  08/2022 ~ 05/2024  
+  08/2022 ~ 08/2024  
   GPA: 3.9/4.0  
   Relevant Courses: Machine Learning, Deep Learning, Graph Neural Networks, Natural Language Processing, Time Series for Business, Statistics for Data Science
 
