@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Zepu Wang 王泽普"
-permalink: /cv/
+permalink: /Publications/
 author_profile: true
 redirect_from:
   - /resume
